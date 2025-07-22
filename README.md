@@ -25,13 +25,13 @@ Permite que o usuário insira **nome** e **e-mail**, e armazena essas informaç�
 
 ## 🧩 Estrutura do Projeto
 cadastro_app/
-├── main.py # Ponto de entrada da aplicação
-├── database.py # Criação e manipulação do banco de dados SQLite
-├── ui.py # Interface Tkinter com campos e botões
-├── utils.py # (Opcional) Funções auxiliares
-├── assets/ # Imagens e ícones, se houver
-├── .gitignore # Arquivos ignorados pelo Git
-└── README.md # Documentação do projeto
+- ├── main.py # Ponto de entrada da aplicação
+- ├── database.py # Criação e manipulação do banco de dados SQLite
+- ├── ui.py # Interface Tkinter com campos e botões
+- ├── utils.py # (Opcional) Funções auxiliares
+- ├── assets/ # Imagens e ícones, se houver
+- ├── .gitignore # Arquivos ignorados pelo Git
+- └── README.md # Documentação do projeto
 
 ---
 
